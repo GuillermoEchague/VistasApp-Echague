@@ -5,10 +5,10 @@ import { styles } from '../theme/appTeme'
 export const Pagina2Screen = ({navigation}) => {
   return (
     <View style={styles.globalMargin}>
-        <Text>Pagina2Screen</Text>
+        <Text style={styles.title}>Pagina2Screen</Text>
 
         <Button 
-          title='Ir Pagina 3'
+          title='Ir Página 3'
           onPress={()=> navigation.navigate('Pagina3Screen')}
         />
     </View>

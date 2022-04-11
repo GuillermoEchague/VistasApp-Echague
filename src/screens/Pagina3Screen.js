@@ -5,14 +5,14 @@ import { styles } from '../theme/appTeme'
 export const Pagina3Screen = ({navigation}) => {
   return (
     <View style={styles.globalMargin}>
-        <Text>Pagina3Screen</Text>
+        <Text style={styles.title}>Pagina3Screen</Text>
 
         <Button 
         title="Regresar"
         onPress={()=> navigation.pop()}
         />
         <Button 
-        title="Ir Pagina 1"
+        title="Ir Página 1"
         onPress={()=> navigation.popToTop()}
         />
     </View>

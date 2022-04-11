@@ -36,8 +36,11 @@ expo install react-native-gesture-handler react-native-reanimated react-native-s
 ### Funciones de App
 
 
-### Hola App
-![](images/1.png)
+### Pantalla 1
+![](img/1.png)
 
-### Adios App
-![](images/2.png)
+### Pantalla 2
+![](img/2.png)
+
+### Pantalla 3
+![](img/3.png)
