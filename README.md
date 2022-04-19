@@ -31,16 +31,26 @@ To run your project, navigate to the directory and run one of the following yarn
 yarn add @react-navigation/native@^5.x
 
 expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+yarn add @react-navigation/bottom-tabs
+
+yarn add @react-navigation/material-bottom-tabs react-native-paper react-native-vector-icons
 ```
 
 ### Funciones de App
 
 
-### Pantalla 1
-![](img/1.png)
+### Pantalla Tab1
+![](img/IMG_0026.png)
 
-### Pantalla 2
-![](img/2.png)
+### Pantalla Tab2
+![](img/IMG_0027.png)
 
-### Pantalla 3
-![](img/3.png)
+### Pantalla StackNavigation 1
+![](img/IMG_0028.png)
+
+### Pantalla StackNavigation 2
+![](img/IMG_0029.png)
+
+### Pantalla StackNavigation 3
+![](img/IMG_0030.png)
