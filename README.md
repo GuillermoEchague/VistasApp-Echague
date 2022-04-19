@@ -41,16 +41,16 @@ yarn add @react-navigation/material-bottom-tabs react-native-paper react-native-
 
 
 ### Pantalla Tab1
-![](img/IMG_0026.png)
+![](img/IMG_0026.PNG)
 
 ### Pantalla Tab2
-![](img/IMG_0027.png)
+![](img/IMG_0027.PNG)
 
 ### Pantalla StackNavigation 1
-![](img/IMG_0028.png)
+![](img/IMG_0028.PNG)
 
 ### Pantalla StackNavigation 2
-![](img/IMG_0029.png)
+![](img/IMG_0029.PNG)
 
 ### Pantalla StackNavigation 3
-![](img/IMG_0030.png)
+![](img/IMG_0030.PNG)
